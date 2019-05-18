@@ -1,5 +1,5 @@
 {
-    "name": "StarkiRobots/rhio",
+    "name": "StarkitRobots/rhio",
     "build": [
         "mkdir -p build",
         "cd build",
